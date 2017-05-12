@@ -6,3 +6,4 @@ bower_components/
 # public/bundle.js
 .eslintrc.json
 .eslintignore
+npm-debug.log
